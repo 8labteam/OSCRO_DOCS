@@ -8,15 +8,15 @@ nav:
 #   - 快速安装:
 #   - 快速入门:
   - 产品介绍: 
-      - 产品概述: readme/产品介绍.md
-      - 产品架构: readme/产品架构.md
-      - 产品功能: readme/产品功能.md
+    - 产品概述: readme/产品介绍.md
+    - 产品架构: readme/产品架构.md
+    - 产品功能: readme/产品功能.md
   - 使用指南: ### 展示导航
-      - 集群管理: readme/集群管理.md
-      - 平台管理: readme/平台管理.md
-      - 应用中心: readme/应用中心.md
-      - 容器管理: readme/容器管理.md
-      - Devops管理: readme/Devops管理.md
+    - 集群管理: readme/集群管理.md
+    - 平台管理: readme/平台管理.md
+    - 应用中心: readme/应用中心.md
+    - 容器管理: readme/容器管理.md
+    - Devops管理: readme/Devops管理.md
   - Verison: ### 展示导航
     - 版本发布:
       - v1.0:
