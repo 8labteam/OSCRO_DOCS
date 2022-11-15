@@ -39,15 +39,15 @@ theme:
   logo: readme/images/logo.png
   palette:          # 网站配色
     - scheme: default # 背景色
+      primary: blue   # 主题色
+      accent: purple  # 图块颜色 
       toggle:
         icon: material/weather-sunny 
         name: Switch to dark mode
     - scheme: slate
       toggle:
         icon: material/weather-night
-        name: Switch to light mode    
-    primary: blue   # 主题色
-    accent: purple  # 图块颜色  
+        name: Switch to light mode     
   font:   # 字体配置
     text: Roboto
     code: Roboto Mono
