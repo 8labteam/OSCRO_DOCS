@@ -19,9 +19,9 @@ nav:
     - Devops管理: readme/Devops管理.md
   - Verison: ### 展示导航
     - 版本发布:
-      - v1.0:
+      - v1.0: readme/v1.0.md
     - 版本升级:
-      - v1.0升级alpha-v1030:
+      - v1.0升级alpha-v1030: readme/v1.0升级alpha-v1030.md
 # Copyright        
 copyright: Copyright © 2022 北京八分量信息科技有限公司
 # Configuration
