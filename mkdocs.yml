@@ -5,12 +5,27 @@ nav:
     - 使用手册: readme/使用手册.md
 theme:
   name: 'material'
+  language: zh # 默认语言
   features:
-  - navigation.tabs # 使用Tab来进行分类
+  - navigation.tabs # 导航标签
   - navigation.top # 返回顶部的按钮 在上滑时出现
   - navigation.indexes # Tab会有一个index.md 而不是在打开Tab时打开第一篇文章
   - navigation.expand # 打开Tab时左侧目录全部展开
   - search.highlight # 搜索出的文章关键词加入高亮
+  favicon: readme/images/favicon.ico
+  logo: readme/images/logo.png
+
+  palette:          # 网站配色
+    - scheme: default # 背景色
+      toggle:
+        icon: material/weather-sunny 
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode    
+  primary: blue   # 主题色
+  accent: purple  # 图块颜色  
 
 markdown_extensions:
   - admonition
@@ -37,3 +52,10 @@ extra_javascript:
 extra:
   search:
     language: 'cn'
+  # alternate:        # 英文切换
+  #   - name: English
+  #     link: /en/ 
+  #     lang: en
+plugins:
+  - search:
+      lang: en
