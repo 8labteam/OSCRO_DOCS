@@ -8,21 +8,21 @@ nav:
 #   - 快速安装:
 #   - 快速入门:
   - 产品介绍: 
-    - 产品概述: readme/产品介绍.md
-    - 产品架构: readme/产品架构.md
-    - 产品功能: readme/产品功能.md
+    - 产品概述: readme/concepts/产品介绍.md
+    - 产品架构: readme/concepts/产品架构.md
+    - 产品功能: readme/concepts/产品功能.md
   - 使用指南: ### 展示导航
-    - 集群管理: readme/集群管理.md
-    - 平台管理: readme/平台管理.md
-    - 开发环境: readme/开发环境.md
-    - 应用中心: readme/应用中心.md
-    - 容器管理: readme/容器管理.md
-    - Devops管理: readme/Devops管理.md
+    - 集群管理: readme/tutorials/集群管理.md
+    - 平台管理: readme/tutorials/平台管理.md
+    - 开发环境: readme/tutorials/开发环境.md
+    - 应用中心: readme/tutorials/应用中心.md
+    - 容器管理: readme/tutorials/容器管理.md
+    - 应用变更管理: readme/tutorials/应用变更管理.md
   - Verison: ### 展示导航
     - 版本发布:
-      - v1.0: readme/v1.0.md
+      - v1.0: readme/upgrade/v1.0.md
     - 版本升级:
-      - v1.0升级alpha-v1030: readme/v1.0升级alpha-v1030.md
+      - v1.0升级alpha-v1030: readme/upgrade/v1.0升级alpha-v1030.md
 # Copyright        
 copyright: Copyright © 2022 北京八分量信息科技有限公司
 # Configuration
