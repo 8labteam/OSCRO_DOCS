@@ -14,6 +14,7 @@ nav:
   - 使用指南: ### 展示导航
     - 集群管理: readme/集群管理.md
     - 平台管理: readme/平台管理.md
+    - 开发环境: readme/开发环境.md
     - 应用中心: readme/应用中心.md
     - 容器管理: readme/容器管理.md
     - Devops管理: readme/Devops管理.md
