@@ -27,7 +27,7 @@ nav:
 copyright: Copyright © 2022 北京八分量信息科技有限公司
 # Configuration
 theme:
-  name: 'material'
+  name: 'material'   ## 参考https://squidfunk.github.io/mkdocs-material/
   language: zh # 默认语言
   features:
   - header.autohide # 标题栏自动隐藏
@@ -54,6 +54,9 @@ theme:
     code: Roboto Mono
 # Extensions
 markdown_extensions:
+markdown_extensions:
+  - attr_list
+  - md_in_html
   - admonition
   - codehilite:
       guess_lang: false
