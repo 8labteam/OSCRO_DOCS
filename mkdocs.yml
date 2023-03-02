@@ -18,7 +18,7 @@ nav:
     - 应用中心: readme/tutorials/应用中心.md
     - 容器管理: readme/tutorials/容器管理.md
     - 应用变更管理: readme/tutorials/应用变更管理.md
-  - Verison: ### 展示导航
+  - 更改日志: ### 展示导航
     - 版本发布:
       - v1.0: readme/upgrade/v1.0.md
     #- 版本升级:
