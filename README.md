@@ -24,3 +24,10 @@ octa services computing resources operator
 # HOW TO USE
 
 详细使用说明(https://8labteam.github.io/OSCRO_DOCS/)
+
+## 本分支用于更新版本前的测试开发
+> 参考地址： https://www.mkdocs.org/user-guide/
+> mkdocs-materila 主题 https://squidfunk.github.io/mkdocs-material/getting-started/
+- MkDocs 是一个快速、简单且完全华丽的静态站点生成器，适用于构建项目文档。文档源文件以 Markdown 编写，并使用单个 YAML 配置文件进行配置 
+- 项目持续构建使用github action, 发布分支gh-pages
+- 开发环境启动`mkdocs serve -a 0.0.0.0:8000`
