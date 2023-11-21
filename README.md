@@ -14,8 +14,9 @@ octa services computing resources operator
 
 | OSCRO Version                                   | Version Explain     | OS Version Supported                          |
 | --                                                          | --                                                               | --                                                |
-| <b>[alpha-v1030](release_notes/alpha-v1030.md)</b> (Oct 30, 2022)  | 内部功能确认测试完成(https://bitbucket.org/8labteam) |  |
-| <b>[v1.0](release_notes/v1.0.md)</b> (Dec 23, 2022)  | 功能构架组件测试通过，具备对外发布使用能力(https://bitbucket.org/8labteam) |  |
+| <b>[v1.0](upgrade/v1.0.md)</b> (Dec 23, 2022)  | 功能构架组件测试通过，具备对外发布使用能力(https://bitbucket.org/8labteam) |  |
+| <b>[v2.0](upgrade/v2.0.0.md)</b> (May 30, 2023)  | 功能构架组件测试通过，具备对外发布使用能力(https://bitbucket.org/8labteam) |  |
+| <b>[v2.1](upgrade/v2.1.0.md)</b> (July 13, 2023)  | 功能构架组件测试通过，具备对外发布使用能力(https://bitbucket.org/8labteam) |  |
 
 # VALUE
 
